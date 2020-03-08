@@ -1,0 +1,201 @@
+cir> cirr err01.aag
+[ERROR] Line 1, Col 1: Extra space character is detected!!
+
+cir> cirr err02.aag
+[ERROR] Line 1, Col 1: Illegal white space char(9) is detected!!
+
+cir> cirr err03.aag
+[ERROR] Line 1, Col 1: Extra space character is detected!!
+
+cir> cirr err04.aag
+[ERROR] Line 1: Illegal identifier "aag3"!!
+
+cir> cirr err05.aag
+[ERROR] Line 1: Illegal identifier "aagasd"!!
+
+cir> cirr err06.aag
+[ERROR] Line 1, Col 1: Illegal white space char(9) is detected!!
+
+cir> cirr err07.aag
+[ERROR] Line 1, Col 1: Missing number of variables!!
+
+cir> cirr err08.aag
+[ERROR] Line 1, Col 1: Extra space character is detected!!
+
+cir> cirr err09.aag
+[ERROR] Line 1: Illegal number of latches(8	)!!
+
+cir> cirr err10.aag
+[ERROR] Line 1: Illegal number of latches(8	9)!!
+
+cir> cirr err11.aag
+[ERROR] Line 1, Col 1: A new line is expected here!!
+
+cir> cirr err12.aag
+[ERROR] Line 1, Col 1: A new line is expected here!!
+
+cir> cirr err13.aag
+[ERROR] Line 1: Number of variables is too small (3)!!
+
+cir> cirr err14.aag
+[ERROR] Line 1: Illegal latches!!
+
+cir> cirr err15.aag
+[ERROR] Line 2, Col 1: Missing PI literal ID!!
+
+cir> cirr err16.aag
+[ERROR] Line 2, Col 1: Extra space character is detected!!
+
+cir> cirr err17.aag
+[ERROR] Line 2, Col 1: A new line is expected here!!
+
+cir> cirr err18.aag
+[ERROR] Line 2, Col 1: A new line is expected here!!
+
+cir> cirr err19.aag
+[ERROR] Line 3, Col 1: PI 5(2) cannot be inverted!!
+
+cir> cirr err20.aag
+[ERROR] Line 3, Col 1: Missing PI literal ID!!
+
+cir> cirr err21.aag
+[ERROR] Line 3: Literal "2" is redefined, previously defined as PI in line 2!!
+
+cir> cirr err22.aag
+[ERROR] Line 3, Col 1: Missing PI literal ID!!
+
+cir> cirr err23.aag
+[ERROR] Line 3, Col 1: Cannot redefine constant (1)!!
+
+cir> cirr err24.aag
+[ERROR] Line 3, Col 1: Literal "16" exceeds maximum valid ID!!
+
+cir> cirr err25.aag
+[ERROR] Line 4, Col 1: Missing PO literal ID!!
+
+cir> cirr err26.aag
+[ERROR] Line 5, Col 1: Missing PO literal ID!!
+
+cir> cirr err27.aag
+[ERROR] Line 5, Col 1: Extra space character is detected!!
+
+cir> cirr err28.aag
+[ERROR] Line 5, Col 1: Literal "17" exceeds maximum valid ID!!
+
+cir> cirr err29.aag
+[ERROR] Line 6, Col 1: Missing space character!!
+
+cir> cirr err30.aag
+[ERROR] Line 6: Literal "4" is redefined, previously defined as PI in line 3!!
+
+cir> cirr err31.aag
+[ERROR] Line 6, Col 1: Extra space character is detected!!
+
+cir> cirr err32.aag
+[ERROR] Line 6, Col 1: Extra space character is detected!!
+
+cir> cirr err33.aag
+[ERROR] Line 6, Col 1: A new line is expected here!!
+
+cir> cirr err34.aag
+[ERROR] Line 6, Col 1: Cannot redefine constant (1)!!
+
+cir> cirr err35.aag
+[ERROR] Line 6, Col 1: Literal "20" exceeds maximum valid ID!!
+
+cir> cirr err36.aag
+[ERROR] Line 6, Col 1: Literal "21" exceeds maximum valid ID!!
+
+cir> cirr err37.aag
+[ERROR] Line 6, Col 1: A new line is expected here!!
+
+cir> cirr err38.aag
+[ERROR] Line 7: Literal "6" is redefined, previously defined as AIG in line 6!!
+
+cir> cirr err39.aag
+[ERROR] Line 8, Col 1: Missing AIG gate literal ID!!
+
+cir> cirr err40.aag
+[ERROR] Line 9, Col 1: Extra space character is detected!!
+
+cir> cirr err41.aag
+[ERROR] Line 9, Col 1: Illegal white space char(9) is detected!!
+
+cir> cirr err42.aag
+[ERROR] Line 9, Col 1: Extra space character is detected!!
+
+cir> cirr err43.aag
+[ERROR] Line 9, Col 1: Illegal white space char(9) is detected!!
+
+cir> cirr err44.aag
+[ERROR] Line 9: Illegal symbol index(a)!!
+
+cir> cirr err45.aag
+[ERROR] Line 9: Missing "symbolic name"!!
+
+cir> cirr err46.aag
+[ERROR] Line 9: Missing "symbolic name"!!
+
+cir> cirr err47.aag
+[ERROR] Line 9: Illegal symbol index(0	)!!
+
+cir> 
+cir> cirr err49.aag
+[ERROR] Line 9, Col 1: Illegal symbol type ()!!
+
+cir> cirr err50.aag
+[ERROR] Line 9, Col 1: Illegal symbol type (a)!!
+
+cir> cirr err51.aag
+[ERROR] Line 10, Col 1: Illegal symbol type (a)!!
+
+cir> cirr err52.aag
+[ERROR] Line 9: PI is too big (3)!!
+
+cir> cirr err53.aag
+[ERROR] Line 10: Symbolic name for "i0" is redefined!!
+
+cir> cirr err54.aag
+[ERROR] Line 10, Col 1: Extra space character is detected!!
+
+cir> cirr err55.aag
+[ERROR] Line 10, Col 1: Illegal white space char(9) is detected!!
+
+cir> cirr err56.aag
+[ERROR] Line 2, Col 1: Cannot redefine constant (0)!!
+
+cir> cirr err57.aag
+[ERROR] Line 2: Number of variables is too small (2)!!
+
+cir> cirr err58.aag
+[ERROR] Line 2, Col 1: Missing number of variables!!
+
+cir> cirr err59.aag
+[ERROR] Line 2: Illegal number of AIGs(a2)!!
+
+cir> cirr err60.aag
+[ERROR] Line 2: Missing "aag"!!
+
+cir> cirr err61.aag
+[ERROR] Line 13, Col 1: Illegal symbol type (c)!!
+
+cir> cirr err62.aag
+[ERROR] Line 13, Col 1: Illegal symbol type (c)!!
+
+cir> cirr err63.aag
+cannot open file
+
+cir> cirr good.aag
+
+cir> cirp
+
+Circuit Statistics
+==================
+  PI           2
+  PO           2
+  AIG          3
+------------------
+  Total        7
+
+cir> q -f
+

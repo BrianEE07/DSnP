@@ -1,0 +1,134 @@
+cirr ok01.aag -replace
+cirp
+cirp -n
+cirp -fl
+cirp -po
+cirp -pi
+cirg 3
+cirg 3 -fanout 4
+cirg 5 -fanin 4
+cirw
+cirw -o jizz
+cirr ok02.aag -replace
+cirp
+cirp -n
+cirp -fl
+cirp -po
+cirp -pi
+cirg 3
+cirg 3 -fanout 4
+cirg 5 -fanin 4
+cirw
+cirw -o jizz
+cirr ok03.aag -replace
+cirp
+cirp -n
+cirp -fl
+cirp -po
+cirp -pi
+cirg 3
+cirg 3 -fanout 4
+cirg 5 -fanin 4
+cirw
+cirw -o jizz
+cirr ok04.aag -replace
+cirp
+cirp -n
+cirp -fl
+cirp -po
+cirp -pi
+cirg 3
+cirg 3 -fanout 4
+cirg 5 -fanin 4
+cirw
+cirw -o jizz
+cirr ok05.aag -replace
+cirp
+cirp -n
+cirp -fl
+cirp -po
+cirp -pi
+cirg 3
+cirg 3 -fanout 4
+cirg 5 -fanin 4
+cirw
+cirw -o jizz
+cirr ok06.aag -replace
+cirp
+cirp -n
+cirp -fl
+cirp -po
+cirp -pi
+cirg 3
+cirg 3 -fanout 4
+cirg 5 -fanin 4
+cirw
+cirw -o jizz
+cirr ok07.aag -replace
+cirp
+cirp -n
+cirp -fl
+cirp -po
+cirp -pi
+cirg 3
+cirg 3 -fanout 4
+cirg 5 -fanin 4
+cirw
+cirw -o jizz
+cirr ok08.aag -replace
+cirp
+cirp -n
+cirp -fl
+cirp -po
+cirp -pi
+cirg 3
+cirg 3 -fanout 4
+cirg 5 -fanin 4
+cirw
+cirw -o jizz
+cirr ok09.aag -replace
+cirp
+cirp -n
+cirp -fl
+cirp -po
+cirp -pi
+cirg 3
+cirg 3 -fanout 4
+cirg 5 -fanin 4
+cirw
+cirw -o jizz
+cirr ok10.aag -replace
+cirp
+cirp -n
+cirp -fl
+cirp -po
+cirp -pi
+cirg 3
+cirg 3 -fanout 4
+cirg 5 -fanin 4
+cirw
+cirw -o jizz
+cirr ok11.aag -replace
+cirp
+cirp -n
+cirp -fl
+cirp -po
+cirp -pi
+cirg 3
+cirg 3 -fanout 4
+cirg 5 -fanin 4
+cirw
+cirw -o jizz
+cirr good.aag -replace
+cirp
+cirp -n
+cirp -fl
+cirp -po
+cirp -pi
+cirg 3
+cirg 3 -fanout 4
+cirg 5 -fanin 4
+cirw
+cirw -o jizz
+q -f
+

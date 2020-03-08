@@ -1,0 +1,100 @@
+task> taski 10
+Task manager is initialized (10)
+
+task> taskn -r 10
+Task node inserted: (gpcbgx, 6761)
+Task node inserted: (bqbzmp, 17651)
+Task node inserted: (ubvxze, 9276)
+Task node inserted: (vjijwj, 3250)
+Task node inserted: (hwoolq, 12508)
+Task node inserted: (snzuea, 15153)
+Task node inserted: (rqqlsm, 6720)
+Task node inserted: (sruoad, 18086)
+Task node inserted: (wmbejq, 14364)
+Task node inserted: (vhinvh, 6192)
+... 10 new task nodes are added.
+
+task> taskq -heap
+(vjijwj, 3250)
+(vhinvh, 6192)
+(rqqlsm, 6720)
+(wmbejq, 14364)
+(gpcbgx, 6761)
+(snzuea, 15153)
+(ubvxze, 9276)
+(sruoad, 18086)
+(bqbzmp, 17651)
+(hwoolq, 12508)
+Number of tasks: 10
+
+task> taska 100
+Task assignment succeeds...
+Updating min: (vjijwj, 3350)
+
+task> taskq -heap
+(vjijwj, 3350)
+(vhinvh, 6192)
+(rqqlsm, 6720)
+(wmbejq, 14364)
+(gpcbgx, 6761)
+(snzuea, 15153)
+(ubvxze, 9276)
+(sruoad, 18086)
+(bqbzmp, 17651)
+(hwoolq, 12508)
+Number of tasks: 10
+
+task> taska 1000
+Task assignment succeeds...
+Updating min: (vjijwj, 4350)
+
+task> taskq -heap
+(vjijwj, 4350)
+(vhinvh, 6192)
+(rqqlsm, 6720)
+(wmbejq, 14364)
+(gpcbgx, 6761)
+(snzuea, 15153)
+(ubvxze, 9276)
+(sruoad, 18086)
+(bqbzmp, 17651)
+(hwoolq, 12508)
+Number of tasks: 10
+
+task> taska 1000 -r 10
+Task assignment succeeds...
+Updating min: (vjijwj, 5350)
+Task assignment succeeds...
+Updating min: (vhinvh, 6192)
+Task assignment succeeds...
+Updating min: (vjijwj, 6350)
+Task assignment succeeds...
+Updating min: (rqqlsm, 6720)
+Task assignment succeeds...
+Updating min: (gpcbgx, 6761)
+Task assignment succeeds...
+Updating min: (vhinvh, 7192)
+Task assignment succeeds...
+Updating min: (vjijwj, 7350)
+Task assignment succeeds...
+Updating min: (rqqlsm, 7720)
+Task assignment succeeds...
+Updating min: (gpcbgx, 7761)
+Task assignment succeeds...
+Updating min: (vhinvh, 8192)
+
+task> taskq -heap
+(vhinvh, 8192)
+(vjijwj, 8350)
+(ubvxze, 9276)
+(wmbejq, 14364)
+(rqqlsm, 8720)
+(snzuea, 15153)
+(hwoolq, 12508)
+(sruoad, 18086)
+(bqbzmp, 17651)
+(gpcbgx, 8761)
+Number of tasks: 10
+
+task> q -f
+

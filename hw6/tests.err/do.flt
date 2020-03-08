@@ -1,0 +1,71 @@
+cirr flt01.aag -replace
+cirp
+cirp -n
+cirp -fl
+cirp -po
+cirp -pi
+cirg 3
+cirg 3 -fanout 4
+cirg 5 -fanin 4
+cirw
+cirr flt02.aag -replace
+cirp
+cirp -n
+cirp -fl
+cirp -po
+cirp -pi
+cirg 3
+cirg 3 -fanout 4
+cirg 5 -fanin 4
+cirw
+cirr flt03.aag -replace
+cirp
+cirp -n
+cirp -fl
+cirp -po
+cirp -pi
+cirg 3
+cirg 3 -fanout 4
+cirg 5 -fanin 4
+cirw
+cirr flt04.aag -replace
+cirp
+cirp -n
+cirp -fl
+cirp -po
+cirp -pi
+cirg 3
+cirg 3 -fanout 4
+cirg 5 -fanin 4
+cirw
+cirr flt05.aag -replace
+cirp
+cirp -n
+cirp -fl
+cirp -po
+cirp -pi
+cirg 3
+cirg 3 -fanout 4
+cirg 5 -fanin 4
+cirw
+cirr flt06.aag -replace
+cirp
+cirp -n
+cirp -fl
+cirp -po
+cirp -pi
+cirg 3
+cirg 3 -fanout 4
+cirg 5 -fanin 4
+cirw
+cirr flt07.aag -replace
+cirp
+cirp -n
+cirp -fl
+cirp -po
+cirp -pi
+cirg 3
+cirg 3 -fanout 4
+cirg 5 -fanin 4
+cirw
+q -f
