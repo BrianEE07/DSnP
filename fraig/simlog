@@ -1,0 +1,31 @@
+cirr sim01.aag -re
+cirsim -f pattern.01 -o ./log/sim01r.log
+cirr sim02.aag -re
+cirsim -f pattern.02 -o ./log/sim02r.log
+cirr sim03.aag -re
+cirsim -f pattern.03 -o ./log/sim03r.log
+cirr sim04.aag -re
+cirsim -f pattern.04 -o ./log/sim04r.log
+cirr sim05.aag -re
+cirsim -f pattern.05 -o ./log/sim05r.log
+cirr sim06.aag -re
+cirsim -f pattern.06 -o ./log/sim06r.log
+cirr sim07.aag -re
+cirsim -f pattern.07 -o ./log/sim07r.log
+cirr sim08.aag -re
+cirsim -f pattern.08 -o ./log/sim08r.log
+cirr sim09.aag -re
+cirsim -f pattern.09 -o ./log/sim09r.log
+cirr sim10.aag -re
+cirsim -f pattern.10 -o ./log/sim10r.log
+cirr sim11.aag -re
+cirsim -f pattern.11 -o ./log/sim11r.log
+cirr sim12.aag -re
+cirsim -f pattern.12 -o ./log/sim12r.log
+cirr sim13.aag -re
+cirsim -f pattern.13 -o ./log/sim13r.log
+cirr sim14.aag -re
+cirsim -f pattern.14 -o ./log/sim14r.log
+cirr sim15.aag -re
+cirsim -f pattern.15 -o ./log/sim15r.log
+q -f

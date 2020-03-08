@@ -1,0 +1,529 @@
+cirr opt01.aag -re
+cirp
+cirp -pi
+cirp -po
+cirp -net
+cirp -fl
+cirsw
+ciropt
+cirstr
+
+
+cirp
+cirp -pi
+cirp -po
+cirp -net
+cirp -fl
+cirr opt02.aag -re
+cirp
+cirp -pi
+cirp -po
+cirp -net
+cirp -fl
+cirsw
+ciropt
+cirstr
+
+
+cirp
+cirp -pi
+cirp -po
+cirp -net
+cirp -fl
+cirr opt03.aag -re
+cirp
+cirp -pi
+cirp -po
+cirp -net
+cirp -fl
+cirsw
+ciropt
+cirstr
+
+
+cirp
+cirp -pi
+cirp -po
+cirp -net
+cirp -fl
+cirr opt04.aag -re
+cirp
+cirp -pi
+cirp -po
+cirp -net
+cirp -fl
+cirsw
+ciropt
+cirstr
+
+
+cirp
+cirp -pi
+cirp -po
+cirp -net
+cirp -fl
+cirr opt05.aag -re
+cirp
+cirp -pi
+cirp -po
+cirp -net
+cirp -fl
+cirsw
+ciropt
+cirstr
+
+
+cirp
+cirp -pi
+cirp -po
+cirp -net
+cirp -fl
+cirr opt06.aag -re
+cirp
+cirp -pi
+cirp -po
+cirp -net
+cirp -fl
+cirsw
+ciropt
+cirstr
+
+
+cirp
+cirp -pi
+cirp -po
+cirp -net
+cirp -fl
+cirr opt07.aag -re
+cirp
+cirp -pi
+cirp -po
+cirp -net
+cirp -fl
+cirsw
+ciropt
+cirstr
+
+
+cirp
+cirp -pi
+cirp -po
+cirp -net
+cirp -fl
+cirr sim01.aag -re
+cirp
+cirp -pi
+cirp -po
+cirp -net
+cirp -fl
+cirsw
+ciropt
+cirstr
+
+
+cirp
+cirp -pi
+cirp -po
+cirp -net
+cirp -fl
+cirr sim02.aag -re
+cirp
+cirp -pi
+cirp -po
+cirp -net
+cirp -fl
+cirsw
+ciropt
+cirstr
+
+
+cirp
+cirp -pi
+cirp -po
+cirp -net
+cirp -fl
+cirr sim03.aag -re
+cirp
+cirp -pi
+cirp -po
+cirp -net
+cirp -fl
+cirsw
+ciropt
+cirstr
+
+
+cirp
+cirp -pi
+cirp -po
+cirp -net
+cirp -fl
+cirr sim04.aag -re
+cirp
+cirp -pi
+cirp -po
+cirp -net
+cirp -fl
+cirsw
+ciropt
+cirstr
+
+
+cirp
+cirp -pi
+cirp -po
+cirp -net
+cirp -fl
+cirr sim05.aag -re
+cirp
+cirp -pi
+cirp -po
+cirp -net
+cirp -fl
+cirsw
+ciropt
+cirstr
+
+
+cirp
+cirp -pi
+cirp -po
+cirp -net
+cirp -fl
+cirr sim06.aag -re
+cirp
+cirp -pi
+cirp -po
+cirp -net
+cirp -fl
+cirsw
+ciropt
+cirstr
+
+
+cirp
+cirp -pi
+cirp -po
+cirp -net
+cirp -fl
+cirr sim07.aag -re
+cirp
+cirp -pi
+cirp -po
+cirp -net
+cirp -fl
+cirsw
+ciropt
+cirstr
+
+
+cirp
+cirp -pi
+cirp -po
+cirp -net
+cirp -fl
+cirr sim08.aag -re
+cirp
+cirp -pi
+cirp -po
+cirp -net
+cirp -fl
+cirsw
+ciropt
+cirstr
+
+
+cirp
+cirp -pi
+cirp -po
+cirp -net
+cirp -fl
+cirr sim09.aag -re
+cirp
+cirp -pi
+cirp -po
+cirp -net
+cirp -fl
+cirsw
+ciropt
+cirstr
+
+
+cirp
+cirp -pi
+cirp -po
+cirp -net
+cirp -fl
+cirr sim10.aag -re
+cirp
+cirp -pi
+cirp -po
+cirp -net
+cirp -fl
+cirsw
+ciropt
+cirstr
+
+
+cirp
+cirp -pi
+cirp -po
+cirp -net
+cirp -fl
+cirr sim11.aag -re
+cirp
+cirp -pi
+cirp -po
+cirp -net
+cirp -fl
+cirsw
+ciropt
+cirstr
+
+
+cirp
+cirp -pi
+cirp -po
+cirp -net
+cirp -fl
+cirr sim12.aag -re
+cirp
+cirp -pi
+cirp -po
+cirp -net
+cirp -fl
+cirsw
+ciropt
+cirstr
+
+
+cirp
+cirp -pi
+cirp -po
+cirp -net
+cirp -fl
+cirr sim13.aag -re
+cirp
+cirp -pi
+cirp -po
+cirp -net
+cirp -fl
+cirsw
+ciropt
+cirstr
+
+
+cirp
+cirp -pi
+cirp -po
+cirp -net
+cirp -fl
+cirr sim14.aag -re
+cirp
+cirp -pi
+cirp -po
+cirp -net
+cirp -fl
+cirsw
+ciropt
+cirstr
+
+
+cirp
+cirp -pi
+cirp -po
+cirp -net
+cirp -fl
+cirr strash01.aag -re
+cirp
+cirp -pi
+cirp -po
+cirp -net
+cirp -fl
+cirsw
+ciropt
+cirstr
+
+
+cirp
+cirp -pi
+cirp -po
+cirp -net
+cirp -fl
+cirr strash02.aag -re
+cirp
+cirp -pi
+cirp -po
+cirp -net
+cirp -fl
+cirsw
+ciropt
+cirstr
+
+
+cirp
+cirp -pi
+cirp -po
+cirp -net
+cirp -fl
+cirr strash03.aag -re
+cirp
+cirp -pi
+cirp -po
+cirp -net
+cirp -fl
+cirsw
+ciropt
+cirstr
+
+
+cirp
+cirp -pi
+cirp -po
+cirp -net
+cirp -fl
+cirr strash04.aag -re
+cirp
+cirp -pi
+cirp -po
+cirp -net
+cirp -fl
+cirsw
+ciropt
+cirstr
+
+
+cirp
+cirp -pi
+cirp -po
+cirp -net
+cirp -fl
+cirr strash05.aag -re
+cirp
+cirp -pi
+cirp -po
+cirp -net
+cirp -fl
+cirsw
+ciropt
+cirstr
+
+
+cirp
+cirp -pi
+cirp -po
+cirp -net
+cirp -fl
+cirr strash06.aag -re
+cirp
+cirp -pi
+cirp -po
+cirp -net
+cirp -fl
+cirsw
+ciropt
+cirstr
+
+
+cirp
+cirp -pi
+cirp -po
+cirp -net
+cirp -fl
+cirr strash07.aag -re
+cirp
+cirp -pi
+cirp -po
+cirp -net
+cirp -fl
+cirsw
+ciropt
+cirstr
+
+
+cirp
+cirp -pi
+cirp -po
+cirp -net
+cirp -fl
+cirr strash08.aag -re
+cirp
+cirp -pi
+cirp -po
+cirp -net
+cirp -fl
+cirsw
+ciropt
+cirstr
+
+
+cirp
+cirp -pi
+cirp -po
+cirp -net
+cirp -fl
+cirr strash09.aag -re
+cirp
+cirp -pi
+cirp -po
+cirp -net
+cirp -fl
+cirsw
+ciropt
+cirstr
+
+
+cirp
+cirp -pi
+cirp -po
+cirp -net
+cirp -fl
+cirr strash10.aag -re
+cirp
+cirp -pi
+cirp -po
+cirp -net
+cirp -fl
+cirsw
+ciropt
+cirstr
+
+
+cirp
+cirp -pi
+cirp -po
+cirp -net
+cirp -fl
+cirr test1.aag -re
+cirp
+cirp -pi
+cirp -po
+cirp -net
+cirp -fl
+cirsw
+ciropt
+cirstr
+
+
+cirp
+cirp -pi
+cirp -po
+cirp -net
+cirp -fl
+cirr test2.aag -re
+cirp
+cirp -pi
+cirp -po
+cirp -net
+cirp -fl
+cirsw
+ciropt
+cirstr
+
+
+cirp
+cirp -pi
+cirp -po
+cirp -net
+cirp -fl
+q -f
